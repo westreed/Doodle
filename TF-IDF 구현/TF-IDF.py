@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 from sklearn.feature_extraction.text import CountVectorizer
 
-print("!pip install -U -q pandas numpy sklearn")
+print("!pip install -U -q pandas numpy scikit-learn")
 
 documents = [
    "배가 부르다",
