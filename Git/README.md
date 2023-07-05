@@ -5,7 +5,8 @@
 - Commit을 할 땐, 제대로 규칙을 세워서 내용을 작성하기.
 - [좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
 
-```{타입}: {커밋 제목}
+```
+{타입}: {커밋 제목}
 
 {커밋 내용}
 
